@@ -1,5 +1,5 @@
 # Scraper
-Web Scraper with node.js using cheerio module
+Web Scraper with Node.js using Cheerio module
 
 Run in terminal : node server.js
 
